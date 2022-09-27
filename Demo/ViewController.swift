@@ -79,6 +79,7 @@ class ViewController: UIViewController {
     
 }
 
+
 extension UIButton {
     //MARK:- Animate check mark
     func checkboxAnimation(closure: @escaping () -> Void){
